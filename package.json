@@ -1,0 +1,13 @@
+{
+    "name": "com.sangle.testpackage",
+    "version": "1.0.0",
+    "displayName": "Test Package",
+    "description": "This is test package",
+    "unity": "2022.3",
+    "location": "Assets",
+    "author": {
+        "name": "Sang Lê",
+        "email": "sanglht2000@gmail.com",
+        "url": ""
+    }
+}
